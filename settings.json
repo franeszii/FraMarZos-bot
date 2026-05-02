@@ -1,5 +1,5 @@
 {
-  "name": "FMZ AFK Bot",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "FraMarZos",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "FraMarZos.aternos.me",
     "port": 37920,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": true
   },
   "position": {
