@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "ZjadMC",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ZjadMC",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "zjadmc.falixsrv.me",
+    "port": 20931,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 1000,
     "max-reconnect-delay": 120000
   },
   "movement": {
