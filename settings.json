@@ -1,8 +1,8 @@
 {
-  "name": "ZjadMC",
+  "name": "zjadek",
   "bot-account": {
     "username": "ZjadMC",
-    "password": "haslo123",
+    "password": "",
     "type": "offline"
   },
   "server": {
