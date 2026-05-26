@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ZjadMC",
   "bot-account": {
-    "username": "FraMarZos",
-    "password": "",
+    "username": "ZjadMC",
+    "password": "haslo123",
     "type": "offline"
   },
   "server": {
-    "ip": "FraMarZos.aternos.me",
-    "port": 37920,
+    "ip": "ZjadMC.falix.gg",
+    "port": 20931,
     "version": "1.21.1",
     "try-creative": true
   },
